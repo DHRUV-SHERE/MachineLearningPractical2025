@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>B.Tech Semester 5 | Ganpat University | U.V. Patel College of Engineering</strong><br>
-  <em>Course Code: 2CEIT506 | Tools: Python, Jupyter Notebook</em>
+  <em>Course Code: 2CEIT506 | Tools: Python, GOogle Collab Notebook</em>
 </p>
 
 <hr>
