@@ -121,7 +121,7 @@
 
 <h2>📌 Note</h2>
 <p>
-These implementations were completed as part of the Machine Learning course in Semester 5. All files are written in Python using Jupyter Notebook and follow hands-on lab-based instructions.
+These implementations were completed as part of the Machine Learning course in Semester 5. All files are written in Python using Google Collab Notebook and follow hands-on lab-based instructions.
 </p>
 
 ---
